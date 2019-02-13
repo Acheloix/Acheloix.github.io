@@ -2445,6 +2445,12 @@
 				padding: 0 1em 0 0;
 				vertical-align: middle;
 			}
+			ul.actions.block li {
+				display: block;
+				padding-bottom: 1em;
+				width:200px;
+				/* vertical-align: middle; */
+			}
 
 				ul.actions li:last-child {
 					padding-right: 0;
